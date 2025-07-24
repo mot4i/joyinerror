@@ -1,7 +1,7 @@
 {
     "_base": "https://raw.githubusercontent.com/mot4i/joyinerror/main/loopy_youpy/",
 
-    "loopy": ["loopy_youpy1.wav", loopy_youpy2.wav", loopy_youpy3.wav", loopy_youpy4.wav"]
+    "loopy": ["loopyoupy1.wav", loopyoupy2.wav", loopyoupy3.wav", loopyoupy4.wav"]
 
     
 }
