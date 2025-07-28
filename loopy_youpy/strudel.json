@@ -3,6 +3,6 @@
 
     "loopy": ["loopy_youpy1.wav", "loopy_youpy2.wav", "loopy_youpy3.wav", "loopy_youpy4.wav", "loopy_youpy5.wav"],
     "vox": ["voxC#.wav","voxF#m.wav","voxG.wav"],
-    "bass": ["bass.wav"]
+    "bigb": ["bass.wav"]
     
 }
