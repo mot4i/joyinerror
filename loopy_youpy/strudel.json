@@ -4,8 +4,8 @@
     "loopy": ["loopy_youpy1.wav", "loopy_youpy2.wav", "loopy_youpy3.wav", "loopy_youpy4.wav", "loopy_youpy5.wav"],
     "vox": ["voxC#.wav","voxF#m.wav","voxG.wav"],
     "bigb": ["bass.wav"],
-    "st": ["stC.wav", "stC1.wav", "stC2.wav", "stC3.wav", "stC4.wav"],   
-    "gl": ["gl1.wav", "gl2.wav", "gl3.wav"]
+    "st": ["st/stC.wav", "st/stC1.wav", "st/stC2.wav", "st/stC3.wav", "st/stC4.wav"],   
+    "gl": ["gl/gl1.wav", "gl/gl2.wav", "gl/gl3.wav"]
 
    
 }
